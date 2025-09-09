@@ -49,7 +49,7 @@ AIがTodoを提案する機能もあり
 
 MVP
 
-![Untitled Diagram.drawio (1).png](Untitled_Diagram.drawio_(1).png)
+![/README_image/MVP.png]
 
 ---
 
@@ -83,4 +83,4 @@ spotify API(仮)
 
 サーバーレスアーキテクチャ
 
-![サーバーレスアーキテクチャ.drawio (1).png](%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%B9%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3.drawio_(1).png)
+![/README_image/serverless.png]
