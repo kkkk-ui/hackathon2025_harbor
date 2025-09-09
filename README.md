@@ -47,7 +47,7 @@ AIがTodoを提案する機能もあり
 | プロフィール画面 | /mypage/{userId} | ・ユーザープロフィール表示・プロフィール更新・ユーザー削除・ログアウト |  |
 | カレンダー画面 | /calender/{userId} | ・カレンダークリックでモーダル出現・予定を入れることもできる・Todo記録可能 | google Calendarと連携 |
 
-MVP
+### MVP
 
 ![/README_image/MVP.png](/README_image/MVP.png)
 
@@ -59,19 +59,19 @@ MVP
 
 ## 使用言語・ライブラリ・フレームワーク
 
-フロントサイド
+### フロントサイド
 
 TypeScript + Next.js
 
-バックサイド
+### バックサイド
 
 Node.js_
 
-データベース
+### データベース
 
 Dynamo DB
 
-API
+### API
 
 OpenAI API
 
@@ -81,6 +81,6 @@ spotify API(仮)
 
 本の情報を提供してくれるAPI(google books?openBD API?)
 
-サーバーレスアーキテクチャ
+### サーバーレスアーキテクチャ
 
 ![/README_image/serverless.png](/README_image/serverless.png)
