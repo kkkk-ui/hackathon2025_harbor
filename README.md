@@ -65,7 +65,7 @@ TypeScript + Next.js
 
 ### バックサイド
 
-Node.js_
+Node.js
 
 ### データベース
 
